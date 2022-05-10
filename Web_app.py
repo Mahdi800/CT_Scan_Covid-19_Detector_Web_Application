@@ -1,6 +1,6 @@
 import streamlit as st
 import tensorflow as tf
-import cv2
+#import cv2
 from PIL import Image, ImageOps
 import numpy as np
 import matplotlib.pyplot as plt
