@@ -46,8 +46,8 @@ def footer_markdown():
     return footer
 
 
-st.title("CT Scan Covid-19 Classification")
-st.header("Using CT Scans to Detect Covid-19. To Get Started Upload Your Scans Below👇")
+st.title("COVID-19 Detection with CT Scans")
+st.header("Using CT Scans to Detect COVID-19. To Get Started Upload Your Scans Below👇")
 st.text("Please note that images are uploadable only in jpg and jpeg format.")
 st.markdown(footer_markdown(),unsafe_allow_html=True)
 
