@@ -40,7 +40,7 @@ def footer_markdown():
     }
     </style>
     <div class="footer">
-    <p>Developed by <a style='display: block; text-align: center;' >Mohammadmahdi Naghipour Khanaposhtani</a></p>
+    <p>Developed by Mohammadmahdi Naghipour Kh.</p>
     </div>
     """
     return footer
