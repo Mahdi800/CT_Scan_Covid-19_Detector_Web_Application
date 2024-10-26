@@ -51,7 +51,7 @@ st.header("Using CT Scans to Detect COVID-19. To Get Started Upload Your Scans B
 st.text("Please note that images are uploadable only in jpg and jpeg format.")
 st.markdown(footer_markdown(),unsafe_allow_html=True)
 
-@st.cache(allow_output_mutation=True)
+
 
 def teachable_machine_classification(img, weights_file):
     # Load the model
