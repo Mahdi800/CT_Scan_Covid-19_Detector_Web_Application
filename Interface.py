@@ -62,7 +62,7 @@ def teachable_machine_classification(img, weights_file):
     image = img
     #image sizing
     size = (64, 64)
-    image = ImageOps.fit(image, size, Image.ANTIALIAS)
+    image = ImageOps.fit(image, size, Image.LANCZOS)
 
     #turn the image into a numpy array
     image_array = np.asarray(image)
