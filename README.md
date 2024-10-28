@@ -1,6 +1,6 @@
 # CT Scan Covid-19 Detector - Web Application
 Using Python's Streamlit framwork a web app has been created to differentiate between Covid-19 positive and negative CT scans. \
-Used images from: https://www.kaggle.com/datasets/drsurabhithorat/covid-19-ct-scan-dataset \
+The training dataset was obtained from: https://www.kaggle.com/datasets/drsurabhithorat/covid-19-ct-scan-dataset \
 Screenshot 1:
 ![Screenshot 2024-10-26 at 9 15 22 AM](https://github.com/user-attachments/assets/4b283b50-0fed-47cd-b533-a1765d168efd)
 
